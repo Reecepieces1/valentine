@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Ask Kiera to Be My Valentine 💘</title>
+  <title>Ask Keiira to Be My Valentine 💘</title>
   <style>
     body {
       text-align: center;
@@ -50,7 +50,7 @@
   </style>
 </head>
 <body>
-  <h1>Kiera, Will You Be My Valentine?</h1>
+  <h1>Keiira, Will You Be My Valentine?</h1>
   <p>This moment means so much to me, and I couldn't imagine a better person to share it with.</p>
   <button onclick="yes()">Yes, I Will!</button>
   <button id="no" onmouseover="moveNo()">No, Thanks</button>
